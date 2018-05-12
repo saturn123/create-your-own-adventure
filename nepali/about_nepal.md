@@ -12,3 +12,6 @@ dhanyabad tapai ko .md file ko lagi
 [tapai sanga kura garda ramro lagyo](gthfy/gthfy.md)
 
 [purano](aalchi lagyo/alchi.md)
+
+Found something interesting here. 
+To get along with nepali community in US go to this [link](http://sajha.com/sajha/html/index.cfm)
